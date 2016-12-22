@@ -7,7 +7,7 @@ Supporting Information
 ---
 
 
-# Files and their contents.
+# Files
 
 
 **S1-Pgenerosa-gonad-protein-v3.fasta**  
@@ -52,7 +52,7 @@ Integrated peak area coefficient of variation values across all gonad peptide tr
 
 ---
 
-## other Directories
+# Directories
 
 
 
@@ -60,7 +60,6 @@ Integrated peak area coefficient of variation values across all gonad peptide tr
 ---
 # Links to data in other repositories
 
-### Corresponding transcriptome - [NCBI BioProject PRJNA316216](PRJNA316216) 
-[SRX1659886](https://www.ncbi.nlm.nih.gov/sra/SRX1659886[accn]): Pooled total RNA from gonads of six adult male Panopea generosa [SRX1659865](https://www.ncbi.nlm.nih.gov/sra/SRX1659865[accn]): Pooled total RNA from gonads of six adult female Panopea generosa
-SRX1659865: Pooled total RNA from gonads of six adult female Panopea generosa
+### Corresponding transcriptome - [NCBI BioProject PRJNA316216](PRJNA316216)     
+[SRX1659886](https://www.ncbi.nlm.nih.gov/sra/SRX1659886[accn]): Pooled total RNA from gonads of six adult male Panopea generosa     [SRX1659865](https://www.ncbi.nlm.nih.gov/sra/SRX1659865[accn]): Pooled total RNA from gonads of six adult female Panopea generosa    
     
