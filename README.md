@@ -22,7 +22,7 @@ Box plot of the coefficients of variation for protein spectral counts from DDA d
 
 
 **S5-NMDS-SRM-tech-reps.pdf**
-NMDS of gonad SRM data for the 3 biological replicates and corresponding three technical replicates for each sex and maturation stage. Blue points represent female proteomes and orange represent male. Shapes and shade (light to dark) represent the different stages: circles for early-stage, squares for mid-stage, and triangles for late-stage.
+NMDS of gonad SRM data for the 3 biological replicates and corresponding three technical replicates for each sex and maturation stage. Blue points represent female proteomes and orange represent male. Shapes and shade (light to dark) represent the different stages: circles for early-stage, squares for mid-stage, and triangles for late-stage.,,
 
 
 **S6-spc-nsaf-prot-names.txt**
