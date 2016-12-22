@@ -64,3 +64,5 @@ Integrated peak area coefficient of variation values across all gonad peptide tr
 [SRX1659886](https://www.ncbi.nlm.nih.gov/sra/SRX1659886[accn]): Pooled total RNA from gonads of six adult male Panopea generosa        
 [SRX1659865](https://www.ncbi.nlm.nih.gov/sra/SRX1659865[accn]): Pooled total RNA from gonads of six adult female Panopea generosa    
     
+### DDA gonad LC-MS/MS - [PRIDE Project PXD003127](https://www.ebi.ac.uk/pride/archive/projects/PXD003127) 
+    
