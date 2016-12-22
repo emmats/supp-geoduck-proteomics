@@ -1,8 +1,13 @@
 **Integrating proteomics and selected reaction monitoring to develop a non-invasive assay for geoduck reproductive maturation.**
+
+
+
 Supporting Information
 
+---
 
-**File names** and their contents.
+
+# Files and their contents.
 
 
 **S1-Pgenerosa-gonad-protein-v3.fasta**  
@@ -45,5 +50,17 @@ Raw Skyline output (in the tab “Skyline output) and peak intensities normalize
 Integrated peak area coefficient of variation values across all gonad peptide transitions (n=212) and hemolymph peptide transitions (n=171) A) across technical replicates for each geoduck biological replicate in gonad tissue, B) across biological replicates for each sex-maturation stage in gonad tissue, C) across technical replicates for each geoduck biological replicate in hemolymph, and D) across biological replicates for each sex-maturation stage in hemolymph. CVs were calculated in R using the raster package. X-axis labels correspond to the geoduck sex and maturation stage, indicated by e.g. “EF3” represents early-stage female sample 3. The boxes represent the upper and lower quartiles of the data distribution;horizontal black line represents median value;“whiskers” extend to the greatest and least values, excluding outliers; open circles represent outliers (more or less than 3/2 times the upper or lower quartiles).
 
 
+---
+
+## other Directories
 
 
+
+
+---
+# Links to data in other repositories
+
+### Corresponding transcriptome - [NCBI BioProject PRJNA316216](PRJNA316216) 
+[SRX1659886](https://www.ncbi.nlm.nih.gov/sra/SRX1659886[accn]): Pooled total RNA from gonads of six adult male Panopea generosa [SRX1659865](https://www.ncbi.nlm.nih.gov/sra/SRX1659865[accn]): Pooled total RNA from gonads of six adult female Panopea generosa
+SRX1659865: Pooled total RNA from gonads of six adult female Panopea generosa
+    
