@@ -60,9 +60,26 @@ Integrated peak area coefficient of variation values across all gonad peptide tr
 ---
 # Links to data in other repositories
 
-### Corresponding transcriptome - [NCBI BioProject PRJNA316216](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA316216)     
-[SRX1659886](https://www.ncbi.nlm.nih.gov/sra/SRX1659886[accn]): Pooled total RNA from gonads of six adult male Panopea generosa        
-[SRX1659865](https://www.ncbi.nlm.nih.gov/sra/SRX1659865[accn]): Pooled total RNA from gonads of six adult female Panopea generosa    
     
-### DDA gonad LC-MS/MS - [PRIDE Project PXD003127](https://www.ebi.ac.uk/pride/archive/projects/PXD003127) 
-    
+[Data] Transcriptomic profiles of adult female & male gonads in _Panopea generosa_ (Pacific geoduck).     
+https://www.ncbi.nlm.nih.gov/bioproject/PRJNA316216
+
+_Panopea_ gonad transcriptome 
+Open Science Framework Project  
+https://osf.io/3xf6m/
+
+[Data]  Geoduck (Panopea generosa) gonad DDA LC-MS/MS
+https://www.ebi.ac.uk/pride/archive/projects/PXD003127
+
+[Code]  Source Code for GO Analysis in Geoduck Gonad Background
+https://github.com/yeastrc/compgo-geoduck-public
+
+[Data]  Geoduck (Panopea generosa) gonad DIA LC-MS/MS
+https://www.ebi.ac.uk/pride/archive/projects/PXD004921
+
+[Data] Selected reaction monitoring of geoduck gonad peptides to develop biomarkers of reproductive maturation status
+http://www.peptideatlas.org/PASS/PASS00943
+
+[Data] Selected reaction monitoring of geoduck hemolymph peptides to develop biomarkers of reproductive maturation status
+http://www.peptideatlas.org/PASS/PASS00942
+
