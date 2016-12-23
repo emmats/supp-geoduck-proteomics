@@ -1,8 +1,8 @@
-**Integrating proteomics and selected reaction monitoring to develop a non-invasive assay for geoduck reproductive maturation.**
+# Supporting Information for manuscript "Integrating proteomics and selected reaction monitoring to develop a non-invasive assay for geoduck reproductive maturation" 
 
+Emma B. Timmins-Schiffman, Grace A. Crandall, Brent Vadopalas, Michael E. Riffle, Brook L. Nunn, Steven B. Roberts (2016) Integrating proteomics and selected reaction monitoring to develop a non-invasive assay for geoduck reproductive maturation
+bioRxiv 094615; doi: https://doi.org/10.1101/094615
 
-
-Supporting Information
 
 ---
 
