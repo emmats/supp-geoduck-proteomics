@@ -42,7 +42,7 @@ Enrichment plots for early- and mid-maturation stage geoduck (EM, EF, MM, MF). P
 NMDS of gonad SRM data for the 3 biological replicates and corresponding three technical replicates for each sex and maturation stage. Blue points represent female proteomes and orange represent male. Shapes and shade (light to dark) represent the different stages: circles for early-stage, squares for mid-stage, and triangles for late-stage.
 
 
-**S8-Table2_add_file_type**
+**S8-GOterms-table.csv**
 GO biological processes enriched in proteins that were differentially abundant between stages within a sex (e.g. early- vs. mid-stage female) or between sexes within a stage (e.g LF vs. LM). Only the most specific GO terms in the GO hierarchy are listed. No terms are listed when a comparison was not made.
 
 
