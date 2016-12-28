@@ -26,11 +26,7 @@ NMDS of  the whole proteomic profiles (DDA data) for the three biological replic
 Box plot of the coefficients of variation for protein spectral counts from DDA data A) across technical replicates for each geoduck biological replicate and B) across biological replicates for each sex-maturation stage. CVs were calculated in R using the raster package. X-axis labels correspond to the geoduck sex and maturation stage, indicated by e.g. “EF3” represents early-stage female sample 3. The boxes represent the upper and lower quartiles of the data distribution; horizontal black line represents median value; “whiskers” extend to the greatest and least values, excluding outliers; open circles represent outliers (more or less than 3/2 times the upper or lower quartiles.
 
 
-**S5-NMDS-SRM-tech-reps.pdf**
-NMDS of gonad SRM data for the 3 biological replicates and corresponding three technical replicates for each sex and maturation stage. Blue points represent female proteomes and orange represent male. Shapes and shade (light to dark) represent the different stages: circles for early-stage, squares for mid-stage, and triangles for late-stage.,,
-
-
-**S6-spc-nsaf-prot-names.txt**
+**S5-spc-nsaf-prot-names.txt**
 All identified proteins from the DDA experiment with Uniprot annotations (e-value cut-off of 1E-10), total spectral counts for each technical replicate, calculated normalized spectral abundance factor (NSAF) for combined technical replicates, and indication of significantly differentially abundant proteins by pairwise comparison. Columns containing spectral count data have headers “SpC” followed by the biological replicate number, sex, maturation stage, and technical replicate (for example, “SpC 3FE” is technical replicate 1 from early-stage female 3). Notation for NSAF is similar to SpC. The 9 columns in the sheet have headers such as “EFvLF” (comparison between early- and late-stage females) have asterisks in the cells that correspond to proteins that were differentially abundant for each given comparison. The last two columns (“NMDS Gonad” and “NMDS Hemolymph”) have asterisks in cells that correspond to the proteins with peptide transitions that contribute significantly to the SRM NMDS plot distributions.
 
 
