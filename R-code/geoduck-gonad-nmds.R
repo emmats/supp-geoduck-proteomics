@@ -1,5 +1,6 @@
 #check technical replicates to see if they can be combined
 #load libraries for biostats and vegan
+#biostats needs to be loaded as a source file, not through the package installer: go to the file menu, select "source file" and select biostats.R
 setwd('/Users/Emma/Documents/genome_sciences_postdoc/geoduck/transcriptome')
 
 gd.reps<-read.csv('Detected geoduck proteins.csv', header=T, row.names=1)
